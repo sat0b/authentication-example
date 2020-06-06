@@ -19,11 +19,6 @@ const uiConfig = {
 };
 
 const LoginPage: FC = () => {
-  
-  useEffect(() => {
-    console.log("hello world");
-  }, []);
-
   return (
     <>
       <h1>My App</h1>
