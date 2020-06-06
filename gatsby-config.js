@@ -6,7 +6,6 @@ module.exports = {
     title: `Authentication Example`,
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-typescript`
   ],
 }

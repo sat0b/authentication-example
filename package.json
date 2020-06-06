@@ -8,7 +8,8 @@
     "gatsby-link": "^2.21.21",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-firebaseui": "^4.1.0"
+    "react-firebaseui": "^4.1.0",
+    "react-helmet": "^6.0.0"
   },
   "license": "MIT",
   "main": "n/a",
