@@ -3,7 +3,7 @@ require(`dotenv`).config({
 });
 module.exports = {
   siteMetadata: {
-    title: `Authentication Example`,
+    title: `farebase Example`,
   },
   plugins: [
     `gatsby-plugin-typescript`

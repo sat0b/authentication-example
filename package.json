@@ -1,5 +1,5 @@
 {
-  "name": "authentication-example",
+  "name": "farebase-example",
   "version": "1.0.0",
   "dependencies": {
     "@types/node": "^8.0.7",

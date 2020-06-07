@@ -1,8 +1,8 @@
-# Authentication Example
+# farebase Example
 
 Create Gatsby project
 
-    $ gatsby new authentication-example https://github.com/haysclark/gatsby-starter-typescript
+    $ gatsby new farebase-example https://github.com/haysclark/gatsby-starter-typescript
 
 Add react-firebaseui
 
